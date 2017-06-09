@@ -15,7 +15,7 @@
 	$dictionary = array(
 
 		'"%1$s" contains invalid XML. The following error was returned: <code>%2$s</code>' =>
-		'"%1$s" contient un XML invalide. L’erreur suivante a été retournée: <code>%2$s</code>',
+		'"%1$s" contiene un XML inválido. Fue devuelto el siguiente error: <code>%2$s</code>',
 
 		'%1$s &ndash; %2$s' =>
 		'%1$s &ndash; %2$s',
@@ -24,1325 +24,1325 @@
 		'%1$s &ndash; %2$s &ndash; %3$s',
 
 		'%1$s Allow remote login via <a href="%2$s">%2$s</a>' =>
-		'%1$s Autoriser la connexion à distance via <a href="%2$s">%2$s</a>',
+		'%1$s Permitir acceso remoto via <a href="%2$s">%2$s</a>',
 
 		'%s Allow selection of multiple authors' =>
-		'%s Permettre la sélection de plusieurs auteurs',
+		'%s Permitir selección de múltiples autores',
 
 		'%s Allow selection of multiple options' =>
-		'%s Permettre la sélection de plusieurs options',
+		'%s Permitir selección de múltiples opciones',
 
 		'%s Checked by default' =>
-		'%s Coché par défaut',
+		'%s Comprobado por defecto',
 
 		'%s Hide this section from the Publish menu' =>
-		'%s Masquer cette section du menu Publier',
+		'%s Ocultar esta sección en el menú Publicar',
 
 		'%s HTML-encode text' =>
-		'%s texte encodé en HTML',
+		'%s texto codificado en HTML',
 
 		'%s Include a count of entries in associated sections' =>
-		'%s Inclure le nombre d’entrées dans les sections associées',
+		'%s Incluir un recuento de entradas en las secciones asociadas',
 
 		'%s is not a valid object. Failed to append to XML.' =>
-		'%s n’est pas un objet valide. Erreur lors de l’ajout au XML.',
+		'%s no es un objeto válido. No pudo anexarse al XML.',
 
 		'%s Make this a required field' =>
-		'%s En faire un champ obligatoire',
+		'%s Hace esto un campo obligatorio',
 
 		'%s Redirect to 404 page when no results are found' =>
-		'%s Redirige vers une page 404 si aucun résultat n’est trouvé',
+		'%s Redirige a la página 404 cuando no se encuentran resultados',
 
 		'%s Select current user by default' =>
-		'%s Sélectionner l’utilisateur actuel par défaut',
+		'%s Seleccionar usuario actual por defecto',
 
 		'%s Show column' =>
-		'%s Voir la colonne',
+		'%s Mostrar columna',
 
 		'&larr; Previous' =>
-		'&larr; Précédent',
+		'&larr; Anterior',
 
 		'\'%s\' contains invalid data. Please check the contents.' =>
-		'\'%s\' contient des données invalides. Veuillez vérifier le contenu.',
+		'\'%s\' contiene datos inválidos. Por favor, compruebe el contenido.',
 
 		'\'%s\' is a required field.' =>
-		'\'%s\' est un champ requis.',
+		'\'%s\' es un campo requerido.',
 
 		' (<b>Notice that it is possible to get mixtures of success and failure messages when using the "Allow Multiple" option</b>)' =>
-		' (<b>Notez qu’il est possible d’obtenir un mélange des messages de succès et d’échecs lorsque l’option "Autorisez plusieurs" est utilisée</b>)',
+		' (<b>Tenga en cuenta que es posible obtener una mezcla de mensajes de éxito y error cuando se utiliza la opción "Permitir Múltiples"</b>)',
 
 		'<abbr title="eXtensible Stylesheet Language Transformation">XSLT</abbr> Processor' =>
-		'Processeur <abbr title="eXtensible Stylesheet Language Transformation">XSLT</abbr>',
+		'Procesador <abbr title="eXtensible Stylesheet Language Transformation">XSLT</abbr>',
 
 		'<abbr title="PHP: Hypertext Pre-processor">PHP</abbr> 5.1 or above' =>
-		'<abbr title="PHP: Hypertext Pre-processor">PHP</abbr> 5.1 ou supérieur',
+		'<abbr title="PHP: Hypertext Pre-processor">PHP</abbr> 5.1 o superior',
 
 		'<acronym title="Universal Resource Locator">URL</acronym>' =>
 		'<acronym title="Universal Resource Locator">URL</acronym>',
 
 		'<acronym title="Universal Resource Locator">URL</acronym> Parameters' =>
-		'Paramètres d’<acronym title="Universal Resource Locator">URL</acronym>',
+		'Parámetros de <acronym title="Universal Resource Locator">URL</acronym>',
 
 		'<a href="%1$s" title="Show debug view for %2$s">Line %3$d</a>' =>
-		'<a href="%1$s" title="Voir la vue de débogage pour %2$s">Line %3$d</a>',
+		'<a href="%1$s" title="Mostrar vista de depuración para %2$s">Línea %3$d</a>',
 
 		'<a href="%s" title="Show debug view">Compile</a>' =>
-		'<a href="%s" title="Montrer la vue de débogage">Compile</a>',
+		'<a href="%s" title="Mostrar vista de depuración">Compilar</a>',
 
 		'A 403 type page already exists.' =>
-		'Une page de type 403 existe déjà.',
+		'Ya existe una página de tipo 403.',
 
 		'A 404 type page already exists.' =>
-		'Une page de type 404 existe déjà.',
+		'Ya existe una página de tipo 404.',
 
 		'Aardvarks' =>
-		'Tamanoir',
+		'Murciélagos',
 
 		'about 1 hour ago' =>
-		'il y a environ 1 heure',
+		'hace aproximadamente 1 hora',
 
 		'about {$hours} hours ago' =>
-		'il y a environ {$hours} heures',
+		'hace aproximadamente {$hours} horas',
 
 		'Access Denied' =>
-		'Accés refusé',
+		'Acceso Denegado',
 
 		'A database error occurred while attempting to reorder.' =>
-		'Une erreur de base de données est survenue lors de la tentative de tri.',
+		'Se produjo un error de base de datos al intentar reordenar.',
 
 		'A Data source with the name <code>%s</code> name already exists' =>
-		'Une source de données du nom <code>%s</code> existe déjà',
+		'Ya existe una fuente de datos con el nombre <code>%s</code> ',
 
 		'Add an Author' =>
-		'Ajouter un auteur',
+		'Añada un Autor',
 
 		'Add a new author' =>
-		'Ajouter un nouvel auteur',
+		'Añada un nuevo autor',
 
 		'Add item' =>
-		'Ajouter un élémént',
+		'Añada un elemento',
 
 		'Admin Only' =>
-		'Administrateur uniquement',
+		'Solo Administrador',
 
 		'Advanced Configuration' =>
-		'Configuration avancée',
+		'Configuración Avanzada',
 
 		'A field with that element name already exists. Please choose another.' =>
-		'Un champ avec ce nom d’élément existe déjà. Veuillez en choisir un autre.',
+		'Ya existe un campo con ese nombre de elemento. Por favor, elija otro.',
 
 		'A file with the name %1$s already exists in %2$s. Please rename the file first, or choose another.' =>
-		'Un fichier avec le nom %1$s existe déjà dans %2$s. Veuillez renommer ce fichier, ou en choisir un autre.',
+		'Ya existe un archivo con el nombre %1$s en %2$s. Por favor, cambie el nombre del archivo primero o elija otro.',
 
 		'All of these fields can be set dynamically using the exact field name of another field in the form as shown below in the example form:' =>
-		'Tous ces champs peuvent être remplis dynamiquement en utilisant le nom exact du champ ou d’un autre champ du formulaire, comme montré dans le formulaire d’exemple ci-dessous :',
+		'Todos estos campos se pueden definir dinámicamente utilizando el nombre de campo exacto de otro campo en el formulario, como se muestra a continuación en el formulario de ejemplo:',
 
 		'Allow filtering of section entries' =>
-		'Autoriser la filtration des entrées d\'une section',
+		'Permitir el filtrado de entradas de sección',
 
 		'Allow Multiple' =>
-		'Autoriser plusieurs',
+		'Permitir Múltiples',
 
 		'a minute ago' =>
-		'il y a une minute',
+		'hace un minuto',
 
 		'An email containing a customised login link has been sent. It will expire in 2 hours.' =>
-		'Un email contenant un mot de passe personnalisé a été envoyé. Il expirera dans 2 heures.',
+		'Se ha enviado un correo electrónico con un enlace de inicio de sesión personalizado. Expirará en 2 horas.',
 
 		'An empty result will be returned when this parameter does not have a value. Do not wrap the parameter with curly-braces.' =>
-		'Une réponse vide sera renvoyée si ce paramètre a une valeur nulle. Ne placez pas d’accolades autour de ce paramètre.',
+		'Se devolverá un resultado vacío cuando este parámetro sea nulo. Por favor, no ponga el parámetro entre paréntesis.',
 
 		'An error occurred during installation. You can view you log <a href="install-log.txt">here</a> for more details.' =>
-		'Une erreur est survenue pendant l’installation. Vous pouvez voir le journal d’installation <a href="install-log.txt">ici</a> pour plus de détails.',
+		'Ocurrió un error durante la instalación. Puede ver su registro de instalación <a href="install-log.txt">aquí</a> para más detalles.',
 
 		'An error occurred while processing this form. <a href="#error">See below for details.</a>' =>
-		'Une erreur est survenue lors du traitement de ce formulaire. <a href="#error">Voir détails ci-dessous.</a>',
+		'Se ha producido un error al procesar este formulario. <a href="#error">Ver detalles más abajo.</a>',
 
 		'An Event with the name <code>%s</code> name already exists' =>
-		'Un Événement du nom <code>%s</code> existe déjà',
+		'Ya existe un evento con el nombre <code>%s</code> ',
 
 		'A new password has been requested for your account. Login using the following link, and change your password via the Authors area:' =>
-		'Un nouveau mot de passe a été demandé pour votre compte. Connectez-vous en utilisant le lien suivant, et changez votre mot de passe dans l’espace auteurs.',
+		'Se ha solicitado una nueva contraseña para su cuenta. Inicie sesión con el siguiente enlace y cambie su contraseña a través del área Autores.',
 
 		'An existing <code>/workspace</code> directory was found at this location. Symphony will use this workspace.' =>
-		'Un répertoire <code>/workspace</code> existant a été détecté à cet emplacement. Symphony utilisera cet espace de travail.',
+		'Se ha encontrado un directorio <code>/workspace</code> existente en esta ubicación. Symphony utilizará este espacio de trabajo.',
 
 		'An index type page already exists.' =>
-		'Une page de type index existe déjà.',
+		'Ya existe una página de tipo índice.',
 
 		'An unknown database occurred while attempting to create the section.' =>
-		'Une erreur inconnue est survenue pendant la création de la section.',
+		'Se ha producido una base de datos desconocida al intentar crear la sección.',
 
 		'A page number must be set' =>
-		'Un numéro de page doit être défini',
+		'Se debe definir un número de página',
 
 		'A page with that handle already exists' =>
-		'une page utilisant ce titre existe déjà',
+		'Ya existe una página con ese indicador',
 
 		'A page with that title already exists' =>
-		'Une page avec ce titre existe déjà',
+		'Ya existe una página con ese título',
 
 		'Apply' =>
-		'Appliquer',
+		'Aplicar',
 
 		'A result limit must be set' =>
-		'Une limite de résultats doit être définie',
+		'Se debe definir un límite de resultados',
 
 		'Are you sure you want to {$action}?' =>
-		'Êtes-vous sûr de vouloir {$action} ?',
+		'¿Seguro que quiere {$action} ?',
 
 		'Are you sure you want to {$action} {$count} items?' =>
-		'Êtes-vous sûr de vouloir {$action} {$count} les éléments ?',
+		'¿Seguro que quiere {$action} {$count} elementos ?',
 
 		'Are you sure you want to {$action} {$name}?' =>
-		'Êtes-vous sûr de vouloir {$action} {$name} ?',
+		'¿Seguro que quiere {$action} {$name} ?',
 
 		'ascending' =>
-		'ascendant',
+		'ascendente',
 
 		'A Section with the name <code>%s</code> name already exists' =>
-		'Une section nommée <code>%s</code> existe déjà',
+		'Ya existe una sección con el nombre <code>%s</code> ',
 
 		'at' =>
-		'à',
+		'en',
 
 		'At least one source must be specified, dynamic or static.' =>
-		'Au moins une source doit être spécifiée, dynamique ou statique.',
+		'Se debe especificar al menos una fuente, dinámica o estática.',
 
 		'Attach to Pages' =>
-		'Attacher aux Pages',
+		'Adjuntar a las Páginas',
 
 		'Author' =>
-		'Auteur',
+		'Autor',
 
 		'View all Authors' =>
-		'Voir tous les auteurs',
+		'Ver todos los autores',
 
 		'Author created at %s.' =>
-		'Auteur créé à %s.',
+		'Autor creado en %s.',
 
 		'Author ID' =>
-		'Identifiant de l’auteur',
+		'Identificador de Autor',
 
 		'Authors' =>
-		'Auteurs',
+		'Autores',
 
 		'authors' =>
-		'auteurs',
+		'autores',
 
 		'Authors can set up a differing language in their profiles.' =>
-		'Les auteurs peuvent définir une autre langue dans leur profil.',
+		'Los autores pueden definir un idioma diferente en sus perfiles.',
 
 		'Author updated at %s.' =>
-		'Auteur mis à jour à %s.',
+		'Autor actualizado en %s.',
 
 		'A Utility with that name already exists. Please choose another.' =>
-		'Un utilitaire de ce nom existe déjà. Veuillez en choisir un nouveau.',
+		'Ya existe una Utilidad con ese nombre. Por favor, elija otro.',
 
 		'Best Regards,' =>
-		'Cordialement,',
+		'Atentamente,',
 
 		'Big' =>
-		'Grand',
+		'Grande',
 
 		'Birds' =>
-		'Oiseaux',
+		'Pájaros',
 
 		'Blueprints' =>
-		'Construction',
+		'Planos de diseño',
 
 		'Body' =>
-		'Contenu',
+		'Contenido',
 
 		'Body is a required field.' =>
-		'Le contenu est un champ obligatoire.',
+		'El contenido es un campo obligatorio.',
 
 		'Bugs' =>
-		'Insectes',
+		'Errores de software',
 
 		'Can\'t open file %s' =>
-		'Impossible d’ouvrir le fichier %s',
+		'No se puede abrir el archivo %s',
 
 		'Cats' =>
-		'Chats',
+		'Gatos',
 
 		'Change Password' =>
-		'Changer de mot de passe',
+		'Cambiar contraseña',
 
 		'Checkbox' =>
-		'Case à cocher',
+		'Casilla de verificación',
 
 		'Children' =>
-		'Enfant',
+		'Niños',
 
 		'Choose only one. Created if does not exist' =>
-		'N’en choisissez qu’un seul. Il sera créé s’il n’existe pas',
+		'Elije sólo uno. Se creará si no existe',
 
 		'Coconut' =>
-		'Noix de coco',
+		'Coco',
 
 		'Cold' =>
-		'Froid',
+		'Frío',
 
 		'Collapse all' =>
-		'Tout réduire',
+		'Todo colapsado',
 
 		'Components' =>
-		'Composants',
+		'Componentes',
 
 		'Confirm New Password' =>
-		'Confirmer nouveau mot de passe',
+		'Confirmar Nueva Contraseña',
 
 		'Confirm Password' =>
-		'Confirmer le mot de passe',
+		'Confirmar Contraseña',
 
 		'Content' =>
-		'Contenu',
+		'Contenido',
 
 		'Could not %1$s %2$s, there was a problem loading the object. Check the driver class exists.' =>
-		'Impossible de %1$s %2$s, un problème est survenu lors du chargement de l’objet. Vérifiez que la classe du pilote existe.',
+		'No se ha podido %1$s %2$s, hubo un problema al cargar el objeto. Compruebe que existe la clase del controlador.',
 
 		'Could not add directory "%s".' =>
-		'Impossible d’ajouter le répertoire "%s".',
+		'No se ha podido añadir el directorio "%s".',
 
 		'Could not add file "%s".' =>
-		'Impossible d’ajouter le fichier "%s".',
+		'No se ha podido añadir el archivo "%s".',
 
 		'Could not find Data Source <code>%s</code>. If the Data Source was provided by an Extensions, ensure that it is installed, and enabled.' =>
-		'Impossible de trouver la source de données <code>%s</code>. Si la source de données provient d’une extension, assurez-vous qu’elle est installée et qu’elle est activée.',
+		'No se puede encontrar la fuente de datos <code>%s</code>. Si la fuente de datos proviene de una Extensión, asegúrese de que está instalada y activada.',
 
 		'Could not find Event <code>%s</code>. If the Event was provided by an Extensions, ensure that it is installed, and enabled.' =>
-		'Impossible de trouver l’événement <code>%s</code>. Si l’événement provient d’une extension, assurez-vous qu’elle est installée et qu’elle est activée.',
+		'No se puede encontrar el evento <code>%s</code>. Si el Evento proviene de una Extensión, asegúrese de que está instalada y activada.',
 
 		'Could not find extension at location %s' =>
-		'Impossible de trouver l’extension à l’adresse %s',
+		'No se pudo encontrar extensión en la dirección %s',
 
 		'Could not find Field <code>%1$s</code> at <code>%2$s</code>. If the Field was provided by an Extension, ensure that it is installed, and enabled.' =>
-		'Impossible de trouver le champ <code>%1$s</code> à <code>%2$s</code>. Si le champ provient d’une extension, assurez-vous qu’elle est installée et qu’elle est activée.',
+		'No se puede encontrar el Campo <code>%1$s</code> en <code>%2$s</code>. Si el Campo proviene de una Extensión, asegúrese de que está instalada y activada.',
 
 		'Could not find Text Formatter <code>%s</code>. If the Text Formatter was provided by an Extensions, ensure that it is installed, and enabled.' =>
-		'Impossible de trouver le formateur de texte <code>%s</code>. Si le formateur de texte provient d’une extension, assurez-vous qu’elle est installée et qu’elle est activée.',
+		'No se puede encontrar el formateador de texto <code>%s</code>. Si el formateador de texto proviene de una extensión, asegúrese de que está instalada y activada.',
 
 		'Create a new data source' =>
-		'Créer une nouvelle source de données',
+		'Crear una nueva fuente de datos',
 
 		'Create a new entry' =>
-		'Créer une nouvelle entrée',
+		'Crear una nueva entrada',
 
 		'Create a new event' =>
-		'Créer un nouvel événement',
+		'Crear un evento nuevo',
 
 		'Create a new page' =>
-		'Créer une nouvelle page',
+		'Crear una nueva página',
 
 		'Create a new utility' =>
-		'Créer un nouvel utilitaire',
+		'Crear una utilidad nueva',
 
 		'Create a section' =>
-		'Créer une section',
+		'Crear una sección',
 
 		'Create Author' =>
-		'Créer un auteur',
+		'Crear Autor',
 
 		'Create Data Source' =>
-		'Créer une source de données',
+		'Crear Fuente de Datos',
 
 		'Create Entry' =>
-		'Créer l’entrée',
+		'Crear Entrada',
 
 		'Create Event' =>
-		'Créer un Événement',
+		'Crear Evento',
 
 		'Create New' =>
-		'Créer nouveau',
+		'Crear Nuevo',
 
 		'Create Page' =>
-		'Créer la Page',
+		'Crear Página',
 
 		'Create random entry' =>
-		'Créer une entrée aléatoire',
+		'Crear una entrada aleatoria',
 
 		'Create Section' =>
-		'Créer une Section',
+		'Crear Sección',
 
 		'Create Utility' =>
-		'Créer un utilitaire',
+		'Crear Utilidad',
 
 		'Customise how Date and Time values are displayed throughout the Administration interface.' =>
-		'Personnaliser l’affichage des dates et heures à l’intérieur de l’interface d’administration.',
+		'Personalizar la visualización de fechas y horas dentro de la interfaz de administración.',
 
 		'Custom Preferences' =>
-		'Préférences personnalisées',
+		'Preferencias Personalizadas',
 
 		'Custom XML' =>
-		'XML personnalisé',
+		'XML personalizado',
 
 		'Database' =>
-		'Base de données',
+		'Base de datos',
 
 		'Database Connection' =>
-		'Connexion à la base de données.',
+		'Conexión a la Base de Datos.',
 
 		'Database Error' =>
-		'Erreur de base de données',
+		'Error de la Base de Datos',
 
 		'Data retrieved from the Symphony support server is decompressed with the ZLib compression library.' =>
-		'Les données récupérées sur le serveur de support de Symphony sont décompressées à l’aide de la Librairie de compression ZLib.',
+		'Los datos recuperados del servidor de soporte Symphony se descomprimen con la librería de compresión ZLib.',
 
 		'Data Source' =>
-		'Source de données',
+		'Fuente de Datos',
 
 		'View all Data sources' =>
-		'Voir toutes les sources de données',
+		'Ver todas la Fuentes de Datos',
 
 		'Data source created at %s.' =>
-		'Source de données créée à %s.',
+		'Fuente de Datos creada en %s.',
 
 		'Data source output grouping is not supported by the <code>%s</code> field' =>
-		'La sortie de la source de données n’est pas supportée par le champ <code>%s</code>',
+		'El agrupamiento de salidas de fuente de datos no es compatible con el campo <code>%s</code>',
 
 		'Data Sources' =>
-		'Sources de données',
+		'Fuentes de Datos',
 
 		'Data source updated at %s.' =>
-		'Source de données mise à jour à %s.',
+		'Fuente de datos actualizada en %s.',
 
 		'Date' =>
-		'Date',
+		'Fecha',
 
 		'Date and Time' =>
-		'Date et heure',
+		'Fecha y Hora',
 
 		'Date Format' =>
-		'Format de la date',
+		'Formato de Fecha',
 
 		'Daylight savings time' =>
-		'Heure d’été',
+		'Horario de Verano',
 
 		'Dear <!-- RECIPIENT NAME -->,' =>
-		'Cher(e) <!-- RECIPIENT NAME -->,',
+		'Querido(a) <!-- RECIPIENT NAME -->,',
 
 		'Default Area' =>
-		'Région par défault',
+		'Área por Defecto',
 
 		'Default Email Settings' =>
-		'Paramètres d\'Email par défault',
+		'Configuración de Email por defecto',
 
 		'Default Section' =>
-		'Section par défaut',
+		'Sección por Defecto',
 
 		'Delete' =>
-		'Supprimer',
+		'Eliminar',
 
 		'Delete Entries' =>
-		'Supprimer les entrées',
+		'Eliminar Entradas',
 
 		'Delete this author' =>
-		'Effacer cet auteur',
+		'Eliminar este autor',
 
 		'Delete this data source' =>
-		'Supprimer cette source de données',
+		'Eliminar esta fuente de datos',
 
 		'Delete this entry' =>
-		'Supprimer cette entrée',
+		'Eliminar esta entrada',
 
 		'Delete this event' =>
-		'Supprimer cet événement',
+		'Eliminar este evento',
 
 		'Delete this page' =>
-		'Supprimer la page',
+		'Eliminar esta página',
 
 		'Delete this section' =>
-		'Supprimer cette section',
+		'Eliminar esta sección',
 
 		'Delete this utility' =>
-		'Supprimer cet utilitaire',
+		'Eliminar esta utilidad',
 
 		'descending' =>
-		'descendant',
+		'descendiente',
 
 		'Description' =>
-		'Description',
+		'Descripción',
 
 		'Destination Directory' =>
-		'Répertoire de destination',
+		'Directorio de Destino',
 
 		'Destination folder, <code>%s</code>, is not writable. Please check permissions.' =>
-		'Le dossier de destination, <code>%s</code>, n’est pas accessible en écriture. Veuillez vérifier les permissions.',
+		'La carpeta de destino, <code>%s</code>, no tiene la escritura habilitada. Por favor, verifique los permisos.',
 
 		'Developer' =>
-		'Développeur',
+		'Desarrollador',
 
 		'Directories' =>
-		'Répertoires',
+		'Directorios',
 
 		'Directory <code>%s</code> does not exist.' =>
-		'La destination <code>%s</code> n’existe pas.',
+		'El directorio <code>%s</code> no existe.',
 
 		'Disable' =>
-		'Désactiver',
+		'Desactivar',
 
 		'Dogs' =>
-		'Chiens',
+		'Perros',
 
 		'Dynamic Options' =>
-		'Options dynamiques',
+		'Opciones Dinámicas',
 
 		'Dynamic XML' =>
-		'XML dynamique',
+		'XML dinámico',
 
 		'dynamic_xml' =>
-		'xml_dynamique',
+		'xml_dinámico',
 
 		'E-mail address entered is invalid' =>
-		'L’adresse email indiquée n’est pas valide',
+		'La dirección e-mail indicada no es válida',
 
 		'E-mail address is required' =>
-		'L’adresse email est requise',
+		'Se requiere una dirección de correo electrónico',
 
 		'Edit' =>
-		'Modifier',
+		'Editar',
 
 		'Edit Configuration' =>
-		'Modifier la configuration',
+		'Editar la Configuración',
 
 		'Edit Page Confguration' =>
-		'Modifier la configuration de la page',
+		'Editar la Configuración de la Página',
 
 		'Edit Page Template' =>
-		'Modifier le modèle de page',
+		'Editar la Plantilla de Página',
 
 		'Edit Section' =>
-		'Modifier la section',
+		'Editar Sección',
 
 		'Edit Template' =>
-		'Modifier le modèle',
+		'Editar Plantilla',
 
 		'Email' =>
 		'Email',
 
 		'Email Address' =>
-		'Adresse email',
+		'Dirección e-mail',
 
 		'Enable' =>
-		'Activer',
+		'Activar',
 
 		'Enabled' =>
-		'Activé',
+		'Activado',
 
 		'Encumbered' =>
-		'Encombré',
+		'Sobrecargado',
 
 		'Enter your email address to be sent a remote login link with further instructions for logging in.' =>
-		'Entrez votre adresse email pour recevoir un lien contenant les instructions pour vous connecter.',
+		'Introduzca su dirección de correo electrónico para recibir un enlace con más instrucciones para iniciar sesión.',
 
 		'Entries' =>
-		'Entrées',
+		'Entradas',
 
 		'Create another?' =>
-		'Créer un autre ?',
+		'¿Crear otro?',
 		
 		'View all Entries' =>
-		'Voir toutes les entrées',
+		'Ver todas las Entradas',
 
 		'Entry updated at %s.' =>
-		'Entrée mise à jour à %s.',
+		'Entrada actualizada en %s.',
 
 		'Entry created at %s.' =>
-		'Entrée créée à %s.',
+		'Entrada creada en %s.',
 
 		'Entry created successfully.' =>
-		'Entrée créée avec succès.',
+		'Entrada creada con éxito.',
 
 		'Entry edited successfully.' =>
-		'Entrée modifiée avec succès.',
+		'Entrada modificada con éxito.',
 
 		'Entry encountered errors when saving.' =>
-		'Des erreurs ont été rencontrées lors de l’enregistrement de l’entrée.',
+		'La Entrada encontró Errores al guardar.',
 
 		'Entry limit specified was not a valid type. String or Integer expected.' =>
-		'Le type de la limite d’entrée spécifiée est incorrect. Une chaîne de caractères ou un nombre sont attendus.',
+		'El límite de entrada especificado no era un tipo válido. Se esperaba Cadena o Entero.',
 
 		'Entry [created | edited] successfully.' =>
-		'[Création | Modification ] de l’entrée réussie.',
+		'Entrada [Creada | Modificada ] con éxito.',
 
 		'Environment Settings' =>
-		'Paramètres d’environnement',
+		'Configuración del Entorno',
 
 		'Error creating field object with id %1$d, for filtering in data source "%2$s". Check this field exists.' =>
-		'Erreur de création de l’objet avec l’id %1$d, pour filtrer dans la source de données "%2$s". Vérifiez que ce champ existe.',
+		'Error al crear el objeto de campo con id %1$d, para filtrar en fuente de datos "%2$s". Verifique que este campo existe.',
 
 		'Essentials' =>
-		'Informations principales',
+		'Elementos Esenciales',
 
 		'View all Events' =>
-		'Voir tous les événements',
+		'Ver todos los Eventos',
 
 		'Event created at %s.' =>
-		'Événement créé à %s.',
+		'Eventos creados en %s.',
 
 		'Events' =>
-		'Événements',
+		'Eventos',
 
 		'Event updated at %s.' =>
-		'Événement mis à jour à %s.',
+		'Eventos actualizados en %s.',
 
 		'Example Front-end Form Markup' =>
-		'Example de balisage pour un formulaire de la partie publique',
+		'Ejemplo de Marcado de Formularios Front-end',
 
 		'Existing Values' =>
-		'Valeurs existantes',
+		'Valores Existentes',
 
 		'Extensions' =>
-		'Extensions',
+		'Extensiones',
 
 		'Failed to delete %s.' =>
-		'Impossible de supprimer %s.',
+		'No se pudo eliminar %s.',
 
 		'Please check permissions on %s' =>
-		'Veuillez vérifier les permissions de %s.',
+		'Por favor, compruebe los permisos de %s.',
 
 		'Failed to write Data source to disk.' =>
-		'Impossible de modifier la source de donnée sur le disque',
+		'Error al escribir la fuente de datos en el disco.',
 
 		'Failed to load URL, status code %d was return' =>
-		'Échec du chargement de l’URL, code de status %s',
+		'Error al cargar URL, el código de estado devuelto es %s',
 
 		'Invalid URL' =>
-		'URL invalid',
+		'URL inválida',
 
 		'Request timed out. %d second limit reached' =>
-		'Délai de la requête écoulé. La limite de %d secondes a été atteint.',
+		'Tiempo de espera agotado. Se ha alcanzado el límite de %d segundos.',
 
 		'Failed to write Event to disk.' =>
-		'Impossible de créer l’Événement sur le disque.',
+		'Fallo al escribir Evento al disco.',
 
 		'Fields' =>
-		'Champs',
+		'Campos',
 
 		'File chosen in "%1$s" exceeds the maximum allowed upload size of %2$s, specified by Symphony.' =>
-		'Le fichier sélectionné dans "%1$s" dépasse la taille maximale autorisée par Symphony de %2$s',
+		'El archivo seleccionado en "%1$s" supera el tamaño máximo permitido de %2$s de subida especificado por Symphony',
 
 		'File chosen in "%1$s" exceeds the maximum allowed upload size of %2$s specified by your host.' =>
-		'Le fichier sélectionné dans "%1$s" dépasse la taille maximale autorisée par votre hôte, qui est de %2$s.',
+		'El archivo seleccionado en "%1$s" supera el tamaño máximo permitido de %2$s, especificado por su host',
 
 		'File chosen in \'%s\' does not match allowable file types for that field.' =>
-		'Le fichier sélectionné dans \'%s\' ne correspond pas aux types de fichiers autorisés pour ce champ.',
+		'El archivo seleccionado en \'%s\' no coincide con los tipos de archivo permitidos para ese campo.',
 
 		'File chosen in \'%s\' was only partially uploaded due to an error.' =>
-		'Le fichier sélectionné dans \'%s\' n’a été que partiellement chargé en raison d’une erreur.',
+		'El archivo seleccionado en \'%s\' sólo se ha cargado parcialmente debido a un error.',
 
 		'Files' =>
-		'Fichiers',
+		'Archivos',
 
 		'File Upload' =>
-		'Envoi de fichier',
+		'Subir Fichero',
 
 		'Filter %s by' =>
-		'Filtrer %s par',
+		'Filtro %s por',
 
 		'Filter Authors by' =>
-		'Filtrer les auteurs par',
+		'Filtrar Autores por',
 
 		'Filter Navigation by' =>
-		'Filtrer la navigation par',
+		'Filtrar Navegación por',
 
 		'Filter Results' =>
-		'Filtrer les résultats',
+		'Filtrar Resultados',
 
 		'Filter Rules' =>
-		'Règles de filtre',
+		'Normas de filtrado',
 
 		'Filters' =>
-		'Filtres',
+		'Filtros',
 
 		'First' =>
-		'Premier',
+		'Primero',
 
 		'First Name' =>
-		'Prénom',
+		'Nombre de Pila',
 
 		'First name is required' =>
-		'Le prénom est requis',
+		'Se requiere nombre de Pila',
 
 		'Forbidden' =>
-		'Interdit',
+		'Prohibido',
 
 		'Forbidden Parameter' =>
-		'Paramètre Interdit',
+		'Parámetro prohibido',
 
 		'Formatting' =>
-		'Mise en forme',
+		'Formato',
 
 		'Gateway' =>
-		'Passerelle',
+		'Puente',
 
 		'General' =>
-		'Général',
+		'General',
 
 		'Group By' =>
-		'Grouper par',
+		'Agrupar por',
 
 		'Grouping' =>
-		'Grouper',
+		'Agrupamiento',
 
 		'Hairy' =>
-		'Poilu',
+		'Peludo',
 
 		'Handle' =>
-		'Titre',
+		'El título',
 
 		'Hi %s,' =>
-		'Salut %s,',
+		'Hola %s,',
 
 		'Hide this section from the back-end menu' =>
-		'Cacher cette section du menu back-end',
+		'Esconder esta sección del menú back-end',
 
 		'Host' =>
-		'Hôte',
+		'Huesped',
 
 		'Hot' =>
-		'Chaud',
+		'Caliente',
 
 		'HTML-encode text' =>
-		'HTML-encoder le texte',
+		'Texto HTML-encode',
 
 		'ID' =>
 		'ID',
 
 		'Ignore?' =>
-		'Ignorer?',
+		'¿Ignorar?',
 
 		'Include a count of entries in associated sections' =>
-		'Inclus un compte des entrées avec l\'association des sections',
+		'Incluir un recuento de entradas en las secciones asociadas',
 
 		'Included Elements' =>
-		'Éléments inclus',
+		'Elementos Incluídos',
 
 		'Installation Failure' =>
-		'Échec de l’installation',
+		'Fallo de Instalación',
 
 		'Install Symphony' =>
-		'Installation de Symphony',
+		'Instalación de Symphony',
 
 		'Invalid element name. Must be valid QName.' =>
-		'Nom d’élément non valide. Le nom doit être valide.',
+		'Nombre de elemento no válido. Debe ser un QName válido.',
 
 		'Invalid Entry ID specified. Could not create Entry object.' =>
-		'L’identifiant de l’entrée spécifiée est invalide. Impossible de créer l’entrée.',
+		'La Entrada ID especificada no es válida. Imposible crear objeto de Entrada.',
 
 		'It looks like your trying to create an entry. Perhaps you want fields first? <a href="%s">Click here to create some.</a>' =>
-		'Il semblerait que vous soyez en train de créer une entrée. Peut-être voulez-vous ajouter des champs d’abord ? <a href="%s">Cliquez ici pour en créer.</a>',
+		'Parece que está tratando de crear una entrada. ¿Quizás desea crear campos primero? <a href="%s">Haga click aquí para crear alguno.</a>',
 
 		'It will expire in 2 hours. If you did not ask for a new password, please disregard this email.' =>
-		'Cette demande expirera dans 2 heures. Si vous n’avez pas demandé de nouveau mot de passe, veuillez ignorer cet email.',
+		'Expirará en 2 horas. Si no ha solicitado una nueva contraseña, ignore este correo electrónico.',
 
 		'just now' =>
-		'à l’instant',
+		'en este momento',
 
 		'Label' =>
-		'Libellé',
+		'Etiqueta',
 
 		'Language' =>
-		'Langue',
+		'Idioma',
 
 		'Large' =>
-		'Large',
+		'Grande',
 
 		'Last' =>
-		'Dernier',
+		'Último',
 
 		'Last name is required' =>
-		'Le nom est requis',
+		'Se requiere un apellido',
 
 		'Last Seen' =>
-		'Vu dernièrement',
+		'Visto última vez',
 
 		'Leave password fields blank to keep the current password' =>
-		'Laisser le champ mot de passe vide pour garder votre mot de passe actuel',
+		'Deje los campos de contraseña en blanco para conservar la contraseña actual',
 
 		'Leave these fields unless you are sure they need to be changed.' =>
-		'Ne modifiez pas la valeur de ces champs, sauf si vous êtes sûr qu’ils nécessitent d’être modifiés.',
+		'No escriba en estos campos a menos que esté seguro de que deban ser cambiados.',
 
 		'Leaving these fields empty will always execute the data source.' =>
-		'Laisser les champs vide va toujours exécuter la source de donnée',
+		'Dejar estos campos vacíos siempre ejecutará la fuente de datos',
 
 		'Line %s' =>
-		'Ligne %s',
+		'Línea %s',
 
 		'Links' =>
-		'Liens',
+		'Enlaces',
 
 		'list of comma author usernames.' =>
-		'liste des identifiants d’auteurs séparés par des virgules.',
+		'lista de nombres de usuario de autor, separadas por comas.',
 
 		'Local' =>
 		'Local',
 
 		'Login Details' =>
-		'Détails de connexion',
+		'Detalles de registro',
 
 		'Log out'=>
-		'Déconnexion',
+		'Cerrar sesión',
 
 		'Logout' =>
-		'Déconnexion',
+		'Cerrar sesión',
 
 		'Long Description <i>Optional</i>' =>
-		'Description longue <i>Optionnel</i>',
+		'Descripción Larga <i>Optional</i>',
 
 		'Lumpy' =>
-		'Imposant',
+		'Grumoso',
 
 		'Main content' =>
-		'Conteneur principal',
+		'Contenido Principal',
 
 		'Make sure that you delete <code>' =>
-		'Assurez-vous de supprimer le fichier <code>',
+		'Asegúrese de eliminar <code>',
 
 		'Make textarea %s rows tall' =>
-		'Créer un champ de texte de %s lignes de hauteur',
+		'Crear un campo de texto con %s líneas de alto',
 
 		'Men' =>
-		'Homme',
+		'Hombre',
 
 		'Message' =>
-		'Message',
+		'Mensaje',
 
 		'Missing Requirements' =>
-		'Prérequis manquants',
+		'Faltan Requisitos previos',
 
 		'Monkeys' =>
-		'Singes',
+		'Monos',
 
 		'Must be a valid number' =>
-		'Doit être un numéro valide',
+		'Debe ser un número válido',
 
 		'Must be a valid number or parameter' =>
-		'Doit être un numéro ou paramètre valide',
+		'Debe ser un número o parámetro válido',
 
 		'Must be greater than zero' =>
-		'Doit être plus important que zéro',
+		'Debe ser mayor que cero',
 
 		'My<abbr title="Structured Query Language">SQL</abbr> 4.1 or above' =>
-		'My<abbr title="Structured Query Language">SQL</abbr> 4.1 ou supérieur',
+		'My<abbr title="Structured Query Language">SQL</abbr> 4.1 o superior',
 
 		'MySQL Error (%1$s): %2$s in query "%3$s"' =>
-		'Erreur MySQL (%1$s): %2$s dans la requête "%3$s"',
+		'Error MySQL (%1$s): %2$s en la consulta "%3$s"',
 
 		'Name' =>
-		'Nom',
+		'Nombre',
 
 		'Name is a required field.' =>
-		'Le nom est un champ obligatoire.',
+		'El nombre es un campo obligatorio.',
 
 		'Namespace' =>
-		'Espace de noms',
+		'Namespace',
 
 		'Namespace Declarations <i>Optional</i>' =>
-		'Déclarations d’espace de noms <i>Optional</i>',
+		'Declaraciones Namespace <i>Optional</i>',
 
 		'Navigation' =>
-		'Navigation',
+		'Navegación',
 
 		'navigation' =>
-		'navigation',
+		'navegación',
 
 		'Navigation Group' =>
-		'Groupe de navigation',
+		'Grupo de Navegación',
 
 		'New Password' =>
-		'Nouveau mot de passe',
+		'Contraseña Nueva',
 
 		'New Symphony Account Password' =>
-		'Nouveau mot de passe du compte Symphony',
+		'Nueva Contraseña de Cuenta Symphony',
 
 		'Next &rarr;' =>
-		'Suivant &rarr;',
+		'Siguiente &rarr;',
 
 		'No' =>
-		'Non',
+		'No',
 
 		'None' =>
-		'Aucun',
+		'Ninguno',
 
 		'None found.' =>
-		'Aucun n’a été trouvé.',
+		'Nada Encontrado.',
 
 		'No records found.' =>
-		'Aucun enregistrement trouvé.',
+		'No se encontraron registros.',
 
 		'No suitable engine object found' =>
-		'Aucun moteur adapté trouvé',
+		'No se encontró ningún objeto de motor adecuado',
 
 		'No suitable XSLT processor was found.' =>
-		'Aucun processeur XSLT convenable n’a été trouvé.',
+		'No se encontró ningún procesador XSLT adecuado.',
 
 		'No valid recipients found. Check send-email[recipient] field.' =>
-		'Aucun destinataire valide trouvés. Vérifiez le champ send-email[recipient].',
+		'No se han encontrado destinatarios válidos. Marque la casilla send-email[recipient].',
 
 		'Old Password' =>
-		'Ancien mot de passe',
+		'Contraseña Antigua',
 
 		'Once installed, you will be able to login to the Symphony admin with these user details.' =>
-		'Une fois installé, vous pourrez vous identifier dans l’administration de Symphony avec ces détails utilisateurs.',
+		'Una vez instalado, podrá acceder al administrador de Symphony con estos detalles de usuario.',
 
 		'One or more pages could not be deleted. Please check permissions on <code>/workspace/pages</code>.' =>
 		'Une ou plusieurs pages n’ont pu être supprimées. Veuillez vérifier les permissions de <code>/workspace/pages</code>.',
 
 		'Optional' =>
-		'Optionnel',
+		'Opcional',
 
 		'Output Options' =>
-		'Options de sortie',
+		'Opciones de Salida',
 
 		'Outstanding Requirements' =>
-		'Principaux prérequis',
+		'Requisitos Pendientes',
 
 		'Page %1$s of %2$s' =>
-		'Page %1$s sur %2$s',
+		'Página %1$s de %2$s',
 
 		'Page could not be deleted because it does not exist.' =>
-		'La page ne peut pas être supprimée car elle n’existe pas.',
+		'No se pudo eliminar la página porque no existe.',
 
 		'Page could not be deleted because it has children.' =>
-		'La page ne peut pas être supprimée car elle contient des éléments enfants.',
+		'La página no se puede eliminar porque contiene elementos secundarios.',
 
 		'View all Pages' =>
-		'Voir toutes les pages',
+		'Ver Todas las Páginas',
 
 		'Page created at %s.' =>
-		'Page crée à %s.',
+		'Página creada en %s.',
 
 		'Page ID' =>
-		'Identifiant de la page',
+		'Identificador ID de la página',
 
 		'Page not found' =>
-		'Page non trouvée',
+		'Página no encontrada',
 
 		'Page Resources' =>
-		'Ressources de Page',
+		'Recursos de Página',
 
 		'Pages' =>
-		'Pages',
+		'Páginas',
 
 		'Page Settings' =>
-		'Paramètres de Page',
+		'Configuración de Página',
 
 		'Page Type' =>
-		'Type de page',
+		'Tipo de página',
 
 		'Page updated at %s.' =>
-		'Page mise à jour à %s.',
+		'Página actualizada en %s.',
 
 		'Parameter Output' =>
-		'Paramètres de sortie',
+		'Salida de Parámetro',
 
 		'Parameters' =>
-		'Paramètres',
+		'Parámetros',
 
 		'Parent Page' =>
-		'Page parente',
+		'Página Principal',
 
 		'Password' =>
-		'Mot de passe',
+		'Contraseña',
 
 		'Password is required' =>
-		'Le mot de passe est requis',
+		'Se requiere contraseña',
 
 		'Passwords did not match' =>
-		'Les mots de passe ne correspondent pas',
+		'Las contraseñas con coinciden',
 
 		'Permission Settings' =>
-		'Paramètres de permissions',
+		'Configuración de Permisos',
 
 		'Personal Information' =>
-		'Informations personnelles',
+		'Información Personal',
 
 		'Pigs' =>
-		'Cochons',
+		'Cerdos',
 
 		'Pirates' =>
-		'Pirates',
+		'Piratas',
 
 		'Placement' =>
-		'Emplacement',
+		'Ubicación',
 
 		'Please <a href="%s">login</a> to view this page.' =>
-		'Veuillez <a href="%s">vous identifier</a> pour voir cette page.',
+		'Por favor, <a href="%s">login</a> para ver esta página.',
 
 		'Please add the following personal details for this user.' =>
-		'Veuillez entrer les informations personnelles pour cet utilisateur.',
+		'Por favor, añada los siguientes datos personales para este usuario.',
 
 		'Please provide Symphony with access to a database.' =>
-		'Veuillez indiquer à Symphony l’accès à la base de données.',
+		'Por favor, proporcione a Symphony acceso a una base de datos.',
 
 		'Port' =>
-		'Port',
+		'Puerto',
 
 		'Preferences' =>
-		'Préférences',
+		'Preferencias',
 
 		'Preferences saved.' =>
-		'Préférences enregistrées.',
+		'Preferencias guardadas.',
 
 		'random' =>
-		'hasard',
+		'aleatorio',
 
 		'Recipient username was invalid' =>
-		'Le nom du destinataire n’est pas valide',
+		'El nombre de usuario del destinatario no es válido',
 
 		'Redirect to 404 page when no results are found' =>
-		'Rediriger à la page 404 quand aucun résultat est présent',
+		'Redirigir a la página 404 cuando no se encuentren resultados',
 
 		'Redirect to 404 page when the forbidden parameter is present' =>
-		'Rediriger à la page 404 quand le paramètre interdit est présent',
+		'Redirigir a la página 404 cuando el parámetro prohibido esté presente',
 
 
 		'Redirect to 404 page when the required parameter is not present' =>
-		'Rediriger à la page 404 quand le paramètre requis n\'est pas présent',
+		'Redirigir a la página 404 cuando el parámetro requerido no esté presente',
 
 		'Region' =>
-		'Région',
+		'Región',
 
 		'Remove installer?' =>
-		'Enlever l\'installateur',
+		'¿Eliminar Instalador?',
 
 		'Remove File' =>
-		'Supprimer le fichier',
+		'Eliminar Archivo',
 
 		'Remove selected items' =>
-		'Supprimer les éléments sélectionnés',
+		'Eliminar Elementos Seleccionados',
 
 		'Reordering was unsuccessful.' =>
-		'La réorganisation a échoué.',
+		'El reordenamiento no tuvo éxito.',
 
 		'Required Parameter' =>
-		'Paramètre Requis',
+		'Parámetro Requerido',
 
 		'Required URL Parameter <i>Optional</i>' =>
-		'Paramètre d’URL requis <i>Optionnel</i>',
+		'Parámetro de URL requerido <i>Optional</i>',
 
 		'Root Path' =>
-		'Chemin de la racine',
+		'Ruta Raíz',
 
 		'Round' =>
-		'Arrondi',
+		'Redondo',
 
 		'Save Changes' =>
-		'Enregistrer les modifications',
+		'Guardar Cambios',
 
 		'View all Sections' =>
-		'Voir toutes les sections',
+		'Ver todas las Secciones',
 
 		'Section created at %s.' =>
-		'Section crée à %s.',
+		'Sección creada en %s.',
 
 		'Section is invalid' =>
-		'La section est invalide',
+		'Sección no válida',
 
 		'Sections' =>
-		'Sections',
+		'Secciones',
 
 		'sections' =>
-		'sections',
+		'secciones',
 
 		'Section updated at %s.' =>
-		'Section mise à jour à %s.',
+		'Sección actualizada en %s.',
 
 		'Select Box' =>
-		'Menu de sélection',
+		'Menú de selección',
 
 		'Send Email' =>
-		'Envoyer email',
+		'Enviar e-mail',
 
 		'Send Email Filter' =>
-		'Filtre d’envoi d’email',
+		'Filtro de Envío de e-mail',
 
 		'Set %s' =>
-		'Définir %s',
+		'Definir %s',
 
 		'Show a maximum of %s results' =>
-		'Afficher un maximum de %s résultats',
+		'Mostrar un máximo de %s resultados',
 
 		'Show page %s of results' =>
-		'Voir la page %s dans les résultats',
+		'Mostra la página %s de resultados',
 
 		'Sidebar' =>
-		'Barre latérale',
+		'Barra lateral',
 
 		'Small' =>
-		'Petit',
+		'Pequeño',
 
 		'Some errors were encountered while attempting to save.' =>
-		'Des erreurs ont été rencontrées pendant l’enregistrement',
+		'Se han encontrado algunos errores al intentar guardar',
 
 		'Sort By' =>
-		'Trier par',
+		'Ordenar Por',
 
 		'Sort by %1$s %2$s' =>
-		'Trier par %1$s %2$s',
+		'Ordenar Por %1$s %2$s',
 
 		'Sorting' =>
-		'Trier',
+		'Clasificar',
 
 		'Sorting and Limiting' =>
-		'Tris et limitations',
+		'Clasificación y límites',
 
 		'Sort Order' =>
-		'Ordre de tri',
+		'Orden de Clasificación',
 
 		'Source' =>
-		'Source',
+		'Fuente',
 
 		'Static Options' =>
-		'Options statiques',
+		'Opciones Estáticas',
 
 		'static_xml' =>
-		'XML statique',
+		'XML estático',
 
 		'Status' =>
-		'Statut',
+		'Estado',
 
 		'Submit' =>
-		'Envoyer',
+		'Enviar',
 
 		'Success and Failure XML Examples' =>
-		'Exemples de réussites et d’échecs XML',
+		'Ejemplos de éxito y error en XML',
 
 		'Suggestion List' =>
-		'Liste de suggestion',
+		'Lista de Sugerencias',
 
 		'Symphony' =>
 		'Symphony',
 
 		'Symphony Concierge' =>
-		'Le concierge de Symphony',
+		'Concierge de Symphony',
 
 		'Symphony Database Error' =>
-		'Erreur de la base de données de Symphony',
+		'Error de la Base de Datos de Symphony',
 
 		'Symphony does not have write permission to the <code>/manifest</code> directory. Please modify permission settings on this directory and its contents to allow this, such as with a recursive <code>chmod -R</code> command.' =>
-		'Symphony n’a pas les permissions nécessaires pour écrire sur le répertoire <code>/manifest</code>. Veuillez modifier les permissions de ce répertoire et de son contenu, en utilisant par exemple la commande récursive <code>chmod -R</code>',
+		'Symphony no tiene permiso de escritura en el directorio <code>/manifest</code>. Por favor, modifique la configuración de permisos en este directorio y su contenido para permitirlo. Utilizando, por ejemplo, un comando recursivo como <code>chmod -R</code>',
 
 		'Symphony does not have write permission to the <code>/symphony</code> directory. Please modify permission settings on this directory. This is necessary only during installation, and can be reverted once installation is complete.' =>
-		'Symphony n’a pas les permissions nécessaires pour écrire sur le répertoire <code>/symphony</code>. Veuillez modifier les permissions de ce répertoire. Ceci est uniquement nécessaire pendant l’installation, et peut être rétabli une fois l’installation terminée.',
+		'Symphony no tiene permisos de escritura en el directorio <code>/symphony</code>. Por favor, modifique la configuración de permisos en este directorio. Esto es necesario sólo durante la instalación, y puede ser revertido una vez la instalación haya sido completada.',
 
 		'Symphony does not have write permission to the existing <code>/workspace</code> directory. Please modify permission settings on this directory and its contents to allow this, such as with a recursive <code>chmod -R</code> command.' =>
-		'Symphony n’a pas les permissions nécessaires pour écrire sur le répertoire existant <code>/workspace</code>. Veuillez modifier les permissions de ce répertoire et de son contenu, en utilisant par exemple la commande récursive <code>chmod -R</code>',
+		'Symphony no tiene permiso de escritura en el directorio existente <code>/workspace</code>. Por favor, modifique la configuración de permisos de este directorio y su contenido para permitirlo, utilizando por ejemplo un comando recursivo como <code>chmod -R</code>',
 
 		'Symphony does not have write permission to the root directory. Please modify permission settings on this directory. This is necessary only if you are not including a workspace, and can be reverted once installation is complete.' =>
-		'Symphony n’a pas les permissions nécessaires pour écrire sur le répertoire racine. Veuillez modifier les permissions de ce répertoire. Ceci est nécessaire seulement si vous n’incluez pas d’espace de travail, et peut être rétabli à la fin de l’installation.',
+		'Symphony no tiene permiso de escritura en el directorio raíz. Por favor, modifique la configuración de permisos en este directorio. Esto es necesario solamente si no está inclueyendo un espacio de trabajo, y podrá rvertirse una vez que la instalación esté completa.',
 
 		'Symphony does not have write permission to the temporary <code>htaccess</code> file. Please modify permission settings on this file so it can be written to, and renamed.' =>
-		'Symphony n’a pas les permissions nécessaires pour écrire sur le fichier temporaire <code>htaccess</code>. Veuillez modifier les permissions de ce fichier pour qu’il puisse être écrit et renommé.',
+		'Symphony no tiene permiso de escritura para el archivo temporal <code> htaccess </ code>. Por favor, modifique la configuración de permisos en este archivo para poder escribirla y cambiarla de nombre..',
 
 		'Symphony is ready to be installed at the following location.' =>
-		'Symphony est prêt à être installé à l’emplacement suivant.',
+		'Symphony está preparado para ser instalado en la siguiente ubicación.',
 
 		'Symphony needs an XSLT processor such as Lib<abbr title="eXtensible Stylesheet Language Transformation">XSLT</abbr> or Sablotron to build pages.' =>
-		'Symphony requiert un processeur XSLT comme Lib<abbr title="eXtensible Stylesheet Language Transformation">XSLT</abbr> ou Sablotron pour construire des pages.',
+		'Symphony requiere un procesador XSLT como Lib<abbr title="eXtensible Stylesheet Language Transformation">XSLT</abbr> o Sablotron para construir páginas.',
 
 		'Symphony needs a recent version of <abbr title="PHP: Hypertext Pre-processor">PHP</abbr>.' =>
-		'Symphony requiert une version récente de <abbr title="PHP: Hypertext Pre-processor">PHP</abbr>.',
+		'Symphony requiere una versión reciente de <abbr title="PHP: Hypertext Pre-processor">PHP</abbr>.',
 
 		'Symphony needs a recent version of My<abbr title="Structured Query Language">SQL</abbr>.' =>
-		'Symphony requiert une version récente de My<abbr title="Structured Query Language">SQL</abbr>.',
+		'Symphony requiere una versión reciente de My<abbr title="Structured Query Language">SQL</abbr>.',
 
 		'Symphony needs permission to read and write both files and directories.' =>
-		'Symphony a besoin des permissions nécessaires pour lire et écrire sur les fichiers et répertoires.',
+		'Symphony necesita permiso para leer y escribir tanto archivos como directorios.',
 
 		'Symphony needs the following requirements satisfied before installation can proceed.' =>
-		'Symphony requiert la validation des conditions suivantes avant le processus d’installation.',
+		'Symphony necesita los siguientes requisitos cumplidos antes de continuar con la instalación.',
 
 		'Symphony normally specifies UTF-8 character encoding for database entries. With compatibility mode enabled, Symphony will instead use the default character encoding of your database.' =>
-		'Symphony spécifie normalement l’encodage de caractères UTF-8 pour les entrées de la base de données. Avec le mode de comptabilité activé, Symphony utilisera l’encodage de caractères par défaut de votre base de données.',
+		'Symphony normalmente especifica la codificación de caracteres UTF-8 para las entradas de la base de datos. Con el modo de compatibilidad activado, Symphony utilizará en su lugar la codificación de caracteres predeterminada en la base de datos de usted.',
 
 		'Symphony requires <code>MySQL 4.1</code> or greater to work, however version <code>%s</code> was detected. This requirement must be met before installation can proceed.' =>
-		'Symphony requiert <code>MySQL 4.1</code> ou supérieur pour fonctionner, cependant la version <code>%s</code> a été détectée. Cette condition doit être remplie avant l’installation.',
+		'Symphony requiere <code>MySQL 4.1</code> o superior para funcionar, sin embargo ha sido detectada la versión <code>%s</code>. Este requisito debe cumplirse antes de continuar.',
 
 		'Symphony requires <code>MySQL 4.1</code> or greater to work. This requirement must be met before installation can proceed.' =>
-		'Symphony requiert <code>MySQL 4.1</code> ou supérieur pour fonctionner. Cette condition doit être remplie avant l’installation.',
+		'Symphony requiere <code>MySQL 4.1</code> o superior para funcionar.Este requisito debe cumplirse antes de continuar.',
 
 		'Symphony was unable to connect to the specified database. You may need to modify host or port settings.' =>
-		'Symphony ne peut pas se connecter à la base de données spécifiée. Vous pourriez avoir besoin de modifier le nom d’hôte ou le port.',
+		'Symphony no pudo conectarse a la base de datos especificada. Es posible que deba modificar la configuración del host o del puerto.',
 
 		'System' =>
-		'Système',
+		'Sistema',
 
 		'System Author' =>
-		'Auteur système',
+		'Autor de Sistema',
 
 		'System Date' =>
-		'Date système',
+		'Fecha del Sistema',
 
 		'System Default' =>
-		'Par défaut',
+		'Sistema por defecto',
 
 		'System ID' =>
-		'Identifiant système',
+		'Identificador ID del sistema',
 
 		'System Language' =>
-		'Langue système',
+		'Idioma del Sistema',
 
 		'Table Prefix' =>
-		'Préfixe de table',
+		'Tabla de Prefijos',
 
 		'Tag List' =>
-		'Liste de mots-clés',
+		'Lista de Etiquetas',
 
 		'Template' =>
-		'Modèle',
+		'Plantilla',
 
 		'Textarea' =>
-		'Champ texte multilignes (textarea)',
+		'Campo de texto',
 
 		'Text Input' =>
-		'Champ texte',
+		'Entrada de Texto',
 
 		'The date specified in \'%s\' is invalid.' =>
-		'La date spécifiée dans \'%s\' est invalide.',
+		'La fecha especificada en \'%s\' no es válida.',
 
 		'The destination directory, <code>%s</code>, does not exist.' =>
-		'Le dosssier de destination, <code>%s</code>, n’existe pas.',
+		'El directorio destino, <code>%s</code>, no existe.',
 
 		'The entry you are looking for could not be found.' =>
-		'L’entrée que vous recherchez n’a pu être trouvée',
+		'La entrada que busca no pudo ser encontrada',
 
 		'The following is an example of what is returned if any filters fail:' =>
-		'Voici un exemple de ce qui est retourné si des filtres échouent :',
+		'Lo siguiente es un ejemplo de lo que se retorna si fallan los filtros:',
 
 		'The page you requested does not exist.' =>
-		'La page que vous demandez n’existe pas.',
+		'La página solicitada no existe.',
 
 		'The page you requested to edit does not exist.' =>
-		'La page que vous désirez modifier n’existe plus.',
+		'La página que ha solicitado editar no existe.',
 
 		'The password and confirmation did not match. Please retype your password.' =>
-		'Le mot de passe et sa confirmation ne sont pas identiques. Veuillez entrer votre mot de passe à nouveau.',
+		'La contraseña y la confirmación no coinciden. Por favor, escriba de nuevo su contraseña.',
 
 		'There appears to be an existing <code>.htaccess</code> file in the <code>/symphony</code> directory.' =>
-		'Il existe déjà un fichier<code>.htaccess</code> dans le répertoire <code>/symphony</code>.',
+		'Parece haber un archivo <code>.htaccess</code> existente en el directorio <code>/symphony</code>.',
 
 		'There appears to be an existing <code>.htaccess</code> file in the Symphony install location. To avoid name clashes, you will need to delete or rename this file.' =>
-		'Il existe déjà un fichier <code>.htaccess</code> dans l’emplacement d’installation de Symphony. Pour éviter les conflits de noms, vous devrez supprimer ou de renommer ce fichier.',
+		'Parece haber una archivo <code>.htaccess</code> en el directorio de instalación de Symphony. Para evitar conflictos de nombres, tendrá que eliminar o renombrar este archivo.',
 
 		'There is already a field of type <code>%s</code>. There can only be one per section.' =>
-		'Un champ de type <code>%s</code> existe déjà. Un seul est autorisé par section.',
+		'Ya hay un campo de tipo <code>%s</code>. Sólo puede haber uno por sección.',
 
 		'There was an error while trying to upload the file <code>%1$s</code> to the target directory <code>%2$s</code>.' =>
-		'Une erreur est survenue durant la tentative de chargement du fichier <code>%1$s</code> vers le répertoire cible <code>%2$s</code>.',
+		'Se produjo un error al intentar cargar el archivo <code>%1$s</code> en el directorio de destino <code>%2$s</code>.',
 
 		'There was a problem locating your account. Please check that you are using the correct email address.' =>
-		'Il y a eu un problème de localisation de votre compte. Veuillez vérifier que vous utilisez l’adresse email correspondante.',
+		'Se ha producido un problema localizando su cuenta. Compruebe que su dirección de correo electrónico es correcta.',
 
 		'There were some problems while attempting to save. Please check below for problem fields.' =>
-		'Des problèmes ont été rencontrés pendant l’enregistrement. Veuillez vérifier les champs posant problème ci-dessous.',
+		'Se encontraron problemas intentando grabar. Por favor, compruebe los campos incorrectos abajo indicados.',
 
 		'The section associated with the data source <code>%s</code> could not be found.' =>
-		'La section associée à la source de données <code>%s</code> n’a pu être trouvée.',
+		'Sección asociada con la fuente de datos <code>%s</code> no encontrada.',
 
 		'The Section you are looking, <code>%s</code> for could not be found.' =>
-		'La section <code>%s</code> que vous recherchez n’a pu être trouvée',
+		'La Sección que está buscando <code>%s</code> no se pudo encontrar',
 
 		'The Section you are looking for, <code>%s</code>, could not be found.' =>
-		'La Section que vous recherchez, <code>%s</code>, est introuvablable.',
+		'La Sección que está buscando, <code>%s</code>, no se pudo encontrar.',
 
 		'The Section you are looking for could not be found.' =>
-		'La Section que vous cherchez n’a pu être trouvée.',
+		'La Sección que está buscando no se pudo encontrar.',
 
 		'The send email filter, upon the event successfully saving the entry, takes input from the form and send an email to the desired recipient. <b>This filter currently does not work with the "Allow Multiple" option.</b> The following are the recognised fields:' =>
-		'Le filtre d’envoi d’email, lorsque l’événement d’enregistrement survient, récupère les entrées du formulaire et envoie un email au destinataire souhaité. <b>Actuellement, ce filtre ne fonctionne pas avec l’option "Autoriser plusieurs".</b> Voici les champs reconnus :',
+		'El filtro de envío de e-mail, al guardar el evento correctamente, recupera las entradas del formulario y envía un e-mail al destinatario deseado. <b>Este filtro actulamente no funciona con la opción "Permitir Múltiple".</b> Los siguientes son los campos reconocidos:',
 
 		'The supplied password was rejected. <a href="%s">Retrieve password?</a>' =>
-		'Le mot de passe fourni a été rejeté. <a href="%s">Récupérer votre mot de passe ?</a>',
+		'Se ha rechazado la contraseña suministrada. <a href="%s">¿Recuperar contraseña?</a>',
 
 		'The supplied password was rejected. Make sure it is not empty and that password matches password confirmation.' =>
-		'Le mot de passe fourni a été rejeté. Veuillez vérifier qu’il n’est pas vide et qu’il correspond au champ de confirmation du mot de passe.',
+		'Se ha rechazado la contraseña suministrada. Asegúrese de que no esté vacía y que la contraseña coincida con su confirmación.',
 
 		'The Symphony configuration file, <code>/manifest/config.php</code>, is not writable. You will not be able to save changes to preferences.' =>
-		'Le fichier de configuration de Symphony, <code>/manifest/config.php</code>, n’est pas accessible en écriture. Vous ne pourrez pas enregistrer les changements de préférences.',
+		'El archivo de configuración de Symphony, <code>/manifest/config.php</code>, no está habilitado para escritura. No podrá guardar los cambios en las preferencias.',
 
 		'The Symphony Team' =>
-		'L’équipe Symphony',
+		'El Equipo de Symphony',
 
 		'The table prefix <code><!-- TABLE-PREFIX --></code> is already in use. Please choose a different prefix to use with Symphony.' =>
-		'Le préfixe de table <code><!-- TABLE-PREFIX --></code> existe déjà. Veuillez choisir un préfixe différent pour Symphony.',
+		'El prefijo de tabla <code><!-- TABLE-PREFIX --></code> ya existe. Por favor, escoje un prefijo diferente para utilizar con Symphony.',
 
 		'This document is not well formed. The following error was returned: <code>%s</code>' =>
-		'Ce document n’est pas bien construit. L’erreur suivante a été renvoyée : <code>%s</code>',
+		'Este documento no está bien formado. Se devolvió el siguiente error: <code>%s</code>',
 
 		'This event will not be processed if any of these rules return true.' =>
-		'Cet événement ne sera pas traité si l’une de ces règles retourne true.',
+		'Este evento no será procesado si alguna de estas reglas devuelve true.',
 
 		'This is a courtesy email to notify you that an entry was created on the %1$s section. You can edit the entry by going to: %2$s' =>
-		'Il s’agit d’un email de courtoisie pour vous informer que l’entrée a été créée dans la section %1$s. Vous pouvez modifier l’entrée en vous rendant ici : %2$s',
+		'Este es un e-mail de cortesía para notificarle que fue creada una entrada en la sección %1$s. Puede editar la entrada yendo a: %2$s',
 
 		'This is an example of the form markup you can use on your frontend:' =>
-		'Voici un exemple de balisage de formulaire que vous pouvez utiliser pour la partie publique :',
+		'Este es un ejemplo del marcado de formulario que puede usar en su frontend:',
 
 		'This is a required field' =>
-		'Ce champ est obligatoire',
+		'Éste es un campo requerido',
 
 		'This is a required field.' =>
-		'Ce champ est obligatoire.',
+		'Es un campo obligatorio.',
 
 		'This is not a valid email address. You must provide an email address since you will need it if you forget your password.' =>
-		'L’adresse email n’est pas valide. Vous devez fournir une adresse email car vous en aurez besoin si vous oubliez votre mot de passe.',
+		'Ésta no es una dirección de correo electrónico válida. Debe proporcionar una dirección de correo electrónico ya que la necesitará si olvida su contraseña.',
 
 		'This page could not be rendered due to the following XSLT processing errors.' =>
-		'Cette page ne peut être rendue suite aux erreurs XSLT suivantes.',
+		'Esta página no se pudo renderizar debido a los siguientes errores de procesamiento XSLT.',
 
 		'Time Format' =>
-		'Format de l’heure',
+		'Formato de Hora',
 
 		'Title' =>
-		'Titre',
+		'Título',
 
 		'Title is a required field' =>
-		'Le titre est un champ obligatoire',
+		'El título es un campo obligatorio',
 
 		'To edit an existing entry, include the entry ID value of the entry in the form. This is best as a hidden field like so:' =>
-		'Pour modifier une entrée existante, ajoutez l’identifiant de l’entrée dans le formulaire. C’est encore mieux avec un champ caché comme ceci :',
+		'Para modificar una entrada existente, incluya el valor del identificador ID de la entrada en el formulario. Es incluso mejor con un campo oculto como este:',
 
 		'To redirect to a different location upon a successful save, include the redirect location in the form. This is best as a hidden field like so, where the value is the URL to redirect to:' =>
-		'Pour rediriger à une autre adresse après un enregistrement sans erreur, ajoutez l’adresse de redirection dans le formulaire. C’est encore mieux avec un champ caché comme ceci, ou la valeur est l’URL vers laquelle rediriger',
+		'Para redirigir a una ubicación diferente después de guardar, añadir la dirección de envío en el formulario. Es incluso mejor con un campo oculto como éste donde el valor es la URL a donde redirigirlo:',
 
 		'Two custom fields have the same element name. All element names must be unique.' =>
-		'Deux champs personnalisés ont le même nom. Chaque nom d’élément doit être unique.',
+		'Dos campos personalizado tienen el mismo nombre de elemento. Todos los nombres de elementos deben ser únicos.',
 
 		'Type' =>
-		'Type',
+		'Tipo',
 
 		'Unable to remove file - %s' =>
-		'Impossible de supprimer le fichier - %s',
+		'No se puede eliminar el archivo - %s',
 
 		'Uninstall' =>
-		'Désintaller',
+		'Desinstalar',
 
 		'Unknown Entry' =>
-		'Entrée inconnue',
+		'Entrada Desconocida',
 
 		'Unknown errors occurred while attempting to save. Please check your <a href="%s">activity log</a>.' =>
-		'Des erreurs inconnues sont survenues pendant l’enregistrement. Veuillez vérifier le <a href="%s">journal d’activités</a>.',
+		'Se han producido errores desconocidos al intentar guardar. Comprueba  tu <a href="%s">registro de actividades</a>.',
 
 		'Unknown errors where encountered when saving.' =>
-		'Des erreurs inconnues sont survenues au cours de l’enregistrement',
+		'Se encontraron errores desconocidos al guardar',
 
 		'Unknown Section' =>
-		'Section inconnue',
+		'Sección Desconocida',
 
 		'Untitled' =>
-		'Untitled',
+		'Sin título',
 
 		'Update Symphony' =>
-		'Mettre à jour Symphony',
+		'Actualizar Symphony',
 
 		'Uploading \'%s\' failed. Could not write temporary file to disk.' =>
-		'Échec du chargement de \'%s\'. Impossible d’écrire le fichier temporaire sur le disque.',
+		'Error al cargar \'%s\'. No se pudo escribir el archivo temporal en el disco.',
 
 		'Uploading \'%s\' failed. File upload stopped by extension.' =>
-		'Échec du chargement de \'%s\'. Le chargement du fichier a été stoppé par l’extension.',
+		'Error al cargar \'%s\'. Archivo para cargar detenido por su extensión.',
 
 		'URI' =>
 		'URI',
@@ -1351,345 +1351,345 @@
 		'URL',
 
 		'URL Handle' =>
-		'Valeur d’URL',
+		'Dirección URL',
 
 		'URL Parameters' =>
-		'Paramètres d’URL',
+		'Parámetros URL',
 
 		'Use <code>{$param}</code> syntax to filter by page parameters.' =>
-		'Utilisez la syntaxe <code>{$param}</code> pour filtrer avec les paramètres de page',
+		'Utilice la sintaxis <code>{$param}</code> para filtrar por parámetros de página',
 
 		'Use <code>{$param}</code> syntax to limit by page parameters.' =>
-		'Utilisez la syntaxe <code>{$param}</code> pour limiter avec les paramètres de page.',
+		'Utilice la sintaxis <code>{$param}</code> para limitar los parámetros de página.',
 
 		'Use <code>{$param}</code> syntax to specify dynamic portions of the URL.' =>
-		'Utilisez la syntaxe <code>{$param}</code> pour spécifier les parties dynamiques de l’URL.',
+		'Utilice la sintaxis <code>{$param}</code> para especificar porciones dinámicas de la URL.',
 
 		'Use an XPath expression to select which elements from the source XML to include.' =>
-		'Utiliser une expression XPath pour sélectionner les éléments à inclure depuis la source XML',
+		'Utilice la sintaxis <code> {$ param} </ code> para especificar porciones dinámicas de la URL.',
 
 		'Use compatibility mode' =>
-		'Utiliser le mode de comptabilité',
+		'Utilice el modo de compatibilidad',
 
 		'Use Field' =>
-		'Utiliser un champ',
+		'Utilice un campo',
 
 		'User Information' =>
-		'Information utilisateur',
+		'Información de usuario',
 
 		'Username' =>
-		'Identifiant',
+		'Nombre de usuario',
 
 		'Username is already taken' =>
-		'Ce nom d’utilisateur est déjà pris',
+		'Este Nombre de Usuario ya existe',
 
 		'Username is required' =>
-		'Le nom d’utilisateur est requis',
+		'Se requiere Nombre de Usuario',
 
 		'User type' =>
-		'Type d’utilisateur',
+		'Tipo de usuario',
 
 		'Validation Rule <i>Optional</i>' =>
-		'Règle de navigation <i>Optionnel</i>',
+		'Regla de validación <i>Optionnel</i>',
 
 		'Value' =>
-		'Valeur',
+		'Valor',
 
 		'Version' =>
-		'Version',
+		'Versión',
 
 		'Version %s' =>
-		'Version %s',
+		'Versión %s',
 
 		'Viewing %1$s - %2$s of %3$s entries' =>
-		'Voir les entrées de %1$s - %2$s à %3$s',
+		'Viendo entrada %1$s - %2$s de %3$s',
 
 		'Weasels' =>
-		'Belettes',
+		'Comadrejas',
 
 		'Website Name' =>
-		'Nom du site',
+		'Nombre del sitio Web',
 
 		'Website Preferences' =>
-		'Préférences du site',
+		'Preferencias del sitio Web',
 
 		'When an error occurs during saving, due to either missing or invalid fields, the following XML will be returned' =>
-		'Si une erreur survient durant l’enregistrement, liée à un champ manquant ou invalide, le XML suivant sera retourné',
+		'Cuando se produce un error al guardar, debido a que faltan campos o no son válidos, se delvolverá el siguiente XML:',
 
 		'When saved successfully, the following XML will be returned:' =>
-		'Quand l’enregistrement est réalisé avec succès, le XML suivant sera retourné :',
+		'Cuando se guarde correctamente, se devolverá el siguiente XML:',
 
 		'With Selected...' =>
-		'Avec la sélection...',
+		'Con la selección...',
 
 		'Women' =>
-		'Femme',
+		'Mujeres',
 
 		'Worms' =>
-		'Verres',
+		'Gusanos',
 
 		'Wrong password. Enter old one to change email address.' =>
-		'Mot de passe incorrect. Entrez votre ancien mot de passe pour changer d’adresse email.',
+		'Contraseña incorrecta. Introduzca la antigua para cambiar la dirección de correo electrónico.',
 
 		'Wrong password. Enter old password to change it.' =>
-		'Mot de passe incorrect. Entrez votre ancien mot de passe pour le changer.',
+		'Contraseña incorrecta. Introduzca la antigua para cambiarla.',
 
 		'XML' =>
 		'XML',
 
 		'XML is invalid' =>
-		'Le XML n’est pas valide',
+		'El XML no es válido.',
 
 		'XML Output' =>
-		'Sortie XML',
+		'Salida XML',
 
 		'XML returned is invalid.' =>
-		'Le XML retourné est invalide.',
+		'El XML devuelto no es válido.',
 
 		'XSLT Processing Error' =>
-		'Erreur de traitement XSLT',
+		'Error de procesamiento XSLT',
 
 		'Yes' =>
-		'Oui',
+		'Sí',
 
 		'You are already using the most recent version of Symphony. There is no need to run the installer, and can be safely deleted.' =>
-		'Vous utilisez déjà la version la plus récente de Symphony. Il est inutile de lancer l’outil d’installation et il peut être supprimé en toute sécurité.',
+		'Ya está usando la versión más reciente de Symphony. No necesita ejecutar el instalador, y puede ser borrado con seguridad.',
 
 		'You are not authorised to access this page.' =>
-		'Vous n’êtes pas autorisé à accéder à cette page',
+		'No está autorizado a acceder a esta página.',
 
 		'You are not authorised to access this section.' =>
-		'Vous n’êtes pas autorisé à accéder à cette section',
+		'No está autorizado a acceder a esta sección.',
 
 		'You are not using the most recent version of Symphony. This update is only compatible with Symphony 2.' =>
-		'Vous n’utilisez pas la version la plus récente de Symphony. Cette mise à jour est uniquement compatible avec Symphony 2.',
+		'No está utilizando la versión más reciente de Symphony. Esta actualización sólo es compatible con Symphony 2.',
 
 		'You must enter a Password. This will be your Symphony login information.' =>
-		'Vous devez entrer un mot de passe. Ce sera votre mot de passe de connexion pour Symphony.',
+		'Debe instroducir una contraseña. Esta será la información de inicio de sesión de Symphony.',
 
 		'You must enter a Username. This will be your Symphony login information.' =>
-		'Vous devez entrer un nom d’utilisateur. Ce sera votre identifiant de connexion pour Symphony.',
+		'Debe instroducir un nombre de usuario. Esta será la información de inicio de sesión de Symphony.',
 
 		'You must enter your name.' =>
-		'Vous devez entrer votre nom.',
+		'Debe instroducir su nombre.',
 
 		'Your Symphony installation is up to date, but the installer was still detected. For security reasons, it should be removed.' =>
-		'Votre installation de Symphony est à jour, mais l\'installateur est toujours détecté. Pour des raisons de sécurité, il devrait être enlever',
+		'Su instalación de Symphony está actualizada pero todavía se detecta el instalador. Por razones de seguridad debería borrarlo.',
 
 		'ZLib Compression Library' =>
-		'Librairie de compression ZLib',
+		'Librería de compresión ZLib',
 
 		'[Symphony] A new entry was created on %s' =>
-		'[Symphony Un nouvelle entrée a été crée dans %s',
+		'[Symphony] Se ha creado una nueva entrada en %s',
 
 		'{$minutes} minutes ago' =>
-		'depuis {$minutes} minutes',
+		'Hace {$minutes} minutos',
 
 		// Obsolete
 
 		'%s Pre-populate this field with today\'s date' =>
-		'%s Pré-remplir ce champ avec la date du jour',
+		'%s Pre-cumplimente este campo con la fecha de hoy',
 
 		'</code> file after Symphony has installed successfully.' =>
-		'</code> après que Symphony ait été installé avec succès.',
+		'</code> después de que Symphony se haya instalado correctamente.',
 
 		'Allow selection of multiple options' =>
-		'Permettre la sélection de plusieurs options',
+		'Permitir la selección de múltiples opcionesº.',
 
 		'Cannot load CMYK JPG Images' =>
-		'Impossible de charger les images JPG CMJN',
+		'No se pueden cargar imágenes CMYK JPG',
 
 		'Datasource Execution' =>
-		'Exécution de la source de données',
+		'Ejecución de Fuente de Datos',
 
 		'Debug' =>
-		'Débogage',
+		'Depurar',
 
 		'Download Language File' =>
-		'Télécharger le fichier de langue',
+		'Descargar Archivo de Idioma',
 
 		'drag to reorder' =>
-		'glisser pour réarranger',
+		'arrastre para reordenar',
 
 		'e. g. de, fr' =>
-		'p. ex. de, fr',
+		'p. ej. de, fr',
 
 		'e. g. Deutsch, Français' =>
-		'p. ex. Deutsch, Français',
+		'p. ej. Deutsch, Français',
 
 		'Error: Connecting to that external site is not permitted.' =>
-		'Erreur: la connexion vers ce site externe n’est pas autorisée.',
+		'Error: no está permitido conectarse a ese sitio externo.',
 
 		'Error generating image' =>
-		'Erreur de génération de l’image',
+		'Error generando imagen.',
 
 		'Error loading image <code>%s</code>. Check it exists and is readable.' =>
-		'Erreur de chargement de l’image <code>%s</code>. Vérifiez qu’elle existe et est lisible.',
+		'Error cargando imagen <code>%s</code>. Compruebe que existe y permite lectura.',
 
 		'Error reading external image <code>%s</code>. Please check the URI.' =>
-		'Erreur de lecture de l’image externe <code>%s</code>. Veuillez vérifier l’URI.',
+		'Error leyendo imagen externa <code>%s</code>. Por favor compruebe la URI.',
 
 		'Error writing to temporary file <code>%s</code>.' =>
-		'Erreur d’écriture du fichier temporaire <code>%s</code>.',
+		'Error escribiendo en archivo temporal <code>%s</code>.',
 
 		'Event Execution' =>
-		'Exécution d’événement',
+		'Ejecución de Evento',
 
 		'Event Filters add additional conditions or actions to an event.' =>
-		'Les Filtres Événements ajoutent des conditions additionnelles ou des actions pour un événement.',
+		'Los Filtros de Eventos agregan condiciones o acciones adicionales a los eventos.',
 
 		'Existing Installation' =>
-		'Installation existante',
+		'Instalación Existente',
 
 		'Expand all' =>
-		'Tout développer',
+		'Expandir todo',
 
 		'Export Ensemble cannot be installed, since the "<a href="http://php.net/manual/en/book.zip.php">ZipArchive</a>" class is not available. Ensure that PHP was compiled with the <code>--enable-zip</code> flag.' =>
-		'L’Ensemble ne peut être installé, car la classe "<a href="http://php.net/manual/en/book.zip.php">ZipArchive</a>" n’est pas disponible. Assurez-vous que PHP a été compilé avec l’option <code>--enable-zip</code>.',
+		'Export Ensemble no se puede isntalar, ya que la clase "<a href="http://php.net/manual/en/book.zip.php">ZipArchive</a>" no está disponible. Asegúrese de que PHP se compiló con el código <code>--enable-zip</code>.',
 
 		'Export Settings' =>
-		'Paramètres d’exportation',
+		'Configuración de Exportación',
 
 		'Full Page Render Statistics' =>
-		'Statistiques de rendu complet de la page',
+		'Estadísticas de Procesamiento de Página Completa',
 
 		'General Details' =>
-		'Informations générales',
+		'Detalles Generales',
 
 		'If you enter details of an already existing language, your download will contain all current strings highlighting missing ones. <br />If you leave all fields blank, a clean, untranslated language file will be returned.' =>
-		'Si vous entrez des détails dans une langue existante, votre téléchargement contiendra toutes les chaînes actuelles en montrant les manquants. <br />Si vous laissez tous les champs vides, un fichier vierge, non traduit vous sera renvoyé.',
+		'Si introduce partes de un idioma existente, su descarga contendrá todas las cadenas actuales resaltando las que faltan. <br />Si deja todos los campos vacíos, se devolverá un archivo de idioma limpio y vacío.',
 
 		'Image <code>%s</code> could not be found.' =>
-		'L’image <code>%s</code> n’a pu être trouvée.',
+		'Imagen <code>%s</code> no encontrada.',
 
 		'Install Symphony <em>Version %s</em>' =>
-		'Installer Symphony <em>Version %s</em>',
+		'Instalar Symphony <em>Versión %s</em>',
 
 		'Invalid image resource supplied' =>
-		'La ressource image fournie est invalide.',
+		'Se ha proporcionado un recurso de imagen no válido.',
 
 		'It appears that <code>install.sql</code> is either missing or not readable. This is required to populate the database and must be uploaded before installation can commence. Ensure that <code>PHP</code> has read permissions.' =>
-		'Il semblerait que <code>install.sql</code> soit absent ou non lisible. Ce fichier est nécessaire pour remplir la base de données et doit être chargé avant l’installation',
+		'Parece que <code>install.sql</code> falta o no es legible. Es necesario para rellenar la base de datos y debe cargarse antes de que pueda comenzar la instalación. Asegúrese de que <code>PHP</code> tiene permiso de lectura.',
 
 		'It appears that Symphony has already been installed at this location.' =>
-		'Il semblerait que Symphony ait déjà été installé à cet emplacement.',
+		'Para que Symphony ya se instaló en esta ubicación.',
 
 		'Language Code' =>
-		'Code de langue',
+		'Código de Idioma',
 
 		'Language Manager' =>
-		'Gestionnaire de langue',
+		'Gestor de Idioma',
 
 		'Limit to the %s most recent entries' =>
-		'Limiter aux %s entrées les plus récentes',
+		'Límite de entradas más recientes en %s',
 
 		'Localisation Manager' =>
-		'Gestionnaire de localisation',
+		'Gestor de Ubicación',
 
 		'Memory Usage' =>
-		'Utilisation de la mémoire',
+		'Uso de la Memoria',
 
 		'Missing File' =>
-		'Fichier manquant',
+		'Archivo Perdido',
 
 		'name' =>
-		'nom',
+		'nombre',
 
 		'new' =>
-		'nouveau',
+		'nuevo',
 
 		'No <code>/symphony</code> directory was found at this location. Please upload the contents of Symphony\'s install package here.' =>
-		'Aucun répertoire <code>/symphony</code> n’a été trouvé à cet emplacement. Veuillez envoyer le contenu du pack d’installation de Symphony ici.',
+		'No se encontró ningún directorio <code>/symphony</code> en esta ubicación. Por favor, cargue el contenido del paquete de instlación de Symphony aquí.',
 
 		'Options' =>
-		'Options',
+		'Opciones',
 
 		'Output Creation Time' =>
-		'Temps de création de la sortie',
+		'Tiempo de Creación de Salida',
 
 		'Params' =>
-		'Paramètres',
+		'Parámetros',
 
 		'Profile' =>
-		'Profil',
+		'Perfil',
 
 		'Result' =>
-		'Résultat',
+		'Resultado',
 
 		'Select Box Link' =>
-		'Menu de sélection lié',
+		'Menu de selección de enlace',
 
 		'Slow Queries (> 0.09s)' =>
-		'Requêtes lentes (> 0.09s)',
+		'Consultas Lentas (> 0.09s)',
 
 		'Slow Query Details' =>
-		'Informations sur les requêtes lentes',
+		'Detalles de Consultas Lentas',
 
 		'System Standard' =>
-		'Standard système',
+		'Estándar del Sistema',
 
 		'The data will only be available on the selected pages.' =>
-		'La data va être seulement accessible sur la page sélectionnée.',
+		'Los datos sólo estarán disponibles en las páginas seleccionadas.',
 
 		'The event will only be available on the selected pages.' =>
-		'Les événements vont être seulement accessible sur la page sélectionnée',
+		'El evento sólo estará disponible en las páginas seleccionadas.',
 
 		'The parameter <code id="output-param-name">$ds-%s</code> will be created with this field\'s value for XSLT or other data sources to use.' =>
-		'Le paramètre <code id="output-param-name">$ds-%s</code> sera créé avec la valeur de ce champ pour XSLT ou d’autres sources de données.',
+		'El parámetro <code id="output-param-name">$ds-%s</code> se creará con el valor de este campo para XSLT u otros orígenes de datos para usar.',
 
 		'This site is currently in maintenance mode. <a href="%s/symphony/system/preferences/?action=toggle-maintenance-mode&amp;redirect=%s">Restore?</a>' =>
-		'Ce site est actuellement en maintenance. <a href="%s/symphony/system/preferences/?action=toggle-maintenance-mode&amp;redirect=%s">Restaurer ?</a>',
+		'Este sitio está actualmente en modo mantenimiento. <a href="%s/symphony/system/preferences/?action=toggle-maintenance-mode&amp;redirect=%s">Restaurar?</a>',
 
 		'Time Running All Data Sources' =>
-		'Temps d’exécution de toutes les sources de données',
+		'Tiempo de Ejecución de Todas las Fuentes de Datos',
 
 		'Time Triggering All Events' =>
-		'Temps de déclenchement de tous les événements',
+		'Tiempo de Desencadenamiento de Todos los Eventos',
 
 		'Total Database Queries' =>
-		'Total des requêtes de base de données',
+		'Consultas totales a la Base de Datos',
 
 		'Total Memory Usage' =>
-		'Utilisation totale de la mémoire',
+		'Memoria Total Utilizada',
 
 		'Total Time Spent on Queries' =>
-		'Temps total passé en requêtes',
+		'Tiempo Total Dedicado a las Consultas',
 
 		'Unsupported image type. Supported types: GIF, JPEG and PNG' =>
-		'Type d’image non supporté. Types supportés : GIF, JPEG et PNG',
+		'Formato de imagen no soportado. Formatos admitidos: GIF, JPEG y PNG',
 
 		'XML Generation Function' =>
-		'Fonction de génération XML',
+		'Función de Generación XML',
 
 		'XSLT Generation' =>
-		'Génération XSLT',
+		'Generación XSLT',
 
 		'%s Pre-populate this field with today\'s date' =>
-		'%s Pré-remplir ce champ avec la date du jour',
+		'%s Pre-cumplimente este campo con la fecha de hoy',
 
 		'It looks like you\'re trying to create an entry. Perhaps you want fields first? <a href="%s">Click here to create some.</a>' =>
-		'Il semblerait que vous soyez en train de créer une entrée. Peut-être voulez-vous ajouter des champs d’abord ? <a href="%s">Cliquez ici pour en créer.</a>',
+		'Parece que está tratando de crear una entrada. ¿Quizás desea crear campos primero? <a href="%s">Clickee aquí para crear uno.</a>',
 
 		'Last Name' =>
-		'Nom',
+		'Apellido',
 
 		'Login' =>
-		'Identifiant',
+		'Iniciar sesión',
 
 		'No <code>/symphony</code> directory was found at this location. Please upload the contents of Symphony\'s install package here.' =>
-		'Aucun répertoire <code>/symphony</code> n’a été trouvé à cet emplacement. Veuillez envoyer le contenu du pack d’installation de Symphony ici.',
+		'No se encontró ningún directorio <code>/symphony</code> en esta ubicación. Por favor, cargue el contenido del paquete de instalación de Symphony aquí.',
 
 		'Page Not Found' =>
-		'Page non trouvée',
+		'Página No Encontrada',
 
 		'Static XML' =>
-		'XML statique',
+		'XML estático',
 
 		'The parameter <code id="output-param-name">$ds-%s</code> will be created with this field\'s value for XSLT or other data sources to use.' =>
-		'Le paramètre <code id="output-param-name">$ds-%s</code> sera créé avec la valeur de ce champ pour XSLT ou d’autres sources de données.',
+		'El parámetro <code id="output-param-name">$ds-%s</code> se creará con el valor de este campo para XSLT u otras fuentes de datos para usar.',
 
 		'User Type' =>
-		'Type d’utilisateur',
+		'Tipo de Usuario',
 
 	);
 

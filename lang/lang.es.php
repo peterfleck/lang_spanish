@@ -14,8 +14,260 @@
 	 */
 	$dictionary = array(
 
+        'This site is currently in maintenance mode.' =>
+		'Este sitio se encuentra actualmente en modo de mantenimiento.',
+        
+        'Maintenance Mode' =>
+		'Modo de mantenimiento',
+        
+        'Enable maintenance mode' =>
+		'Activar el modo de mantenimiento',
+        
+        'IP Whitelist' =>
+		'Lista blanca de IP',
+        
+        'Remote Datasource' =>
+		'Fuente de datos remota',
+        
+        'Use {$param} syntax to specify dynamic portions of the URL.' =>
+		'Utilice la sintaxis {$param} para especificar porciones dinámicas de la URL.',
+        
+        'Number' =>
+		'Número',
+        
+        'number' =>
+		'número',
+        
+		'Languages' =>
+		'Idiomas',
+        		
+        'Select languages of the site.' =>
+		'Seleccione los idiomas del sitio.',
+        
+        'Site languages' =>
+		'Idiomas del sitio',
+        
+        'Main language' =>
+		'Idioma principal',
+        
+        'Select the main language of the site.' =>
+		'Seleccione el idioma principal del sitio.',
+        
+        'Frontend Localisation' =>
+		'Localización Frontend',
+        
+        'Add language' =>
+		'Añadir idioma',
+        
+        'No language available' =>
+		'No hay idioma disponible',
+        	
+        'Export dictionary' =>
+		'Exportar diccionario',
+        
+        'Create dictionary' =>
+		'Crear diccionario',        
+        
+        'Sort strings alphabetically' =>
+		'Ordenar las cadenas alfabéticamente', 
+        
+        'Display in entries table' =>
+		'Mostrar en la tabla de entradas',
+        
+        'View Entries' =>
+		'Ver entradas',
+        
+        'Filter Entries' =>
+		'Filtrar entradas',
+        
+        'Add field' =>
+		'Añadir campo',
+        
+        'Add namespace' =>
+		'Añadir namespace',
+        
+        'Remove field' =>
+		'Eliminar campo',
+        
+        'Remove namespace' =>
+		'Eliminar namespace',
+        
+        'Format' =>
+		'Formato',
+        
+        'format' =>
+		'formato',
+        
+        'Parameters' =>
+		'Parámetros',
+        
+        'parameter' =>
+		'parámetro',
+        
+        'Add parameter' =>
+		'Añadir parámetro',
+        
+        'Text Box' =>
+		'Cuadro de texto',
+        
+        'Image Upload' =>
+		'Subir imagen', 
+        
+        'Date/Time' =>
+		'Fecha/Hora', 
+        
+        'From extensions' =>
+        'De las extensiones',
+        
+        'Not installed' =>
+        'No instalado',
+        
+        'Export Ensemble' =>
+		'Exportar Ensemble',
+        
+        'Save Install Files' =>
+		'Guardar archivos de instalación',
+        
+        'Download ZIP' =>
+		'Descargar ZIP',
+        
+        'You can add more languages in your configuration file.' =>
+		'Puede agregar más idiomas en su archivo de configuración.',
+        
+        'Languages included in the Date and Time Data Source' =>
+		'Idiomas incluidos en la Fuente de Datos de Fecha y Hora',
+        
+        'Save (overwrite) install files or package entire site as a .zip archive for download.' =>
+		'Guardar (sobrescribir) los archivos de instalación o paquete de todo el sitio como un archivo .zip para su descarga.',
+        
+        'in minutes' =>
+		'en minutos',
+        
+        'in seconds' =>
+		'en segundos',
+        
+        'next' =>
+		'siguiente',
+        
+        'previous' =>
+		'anterior',
+        
+        'Trusted Sites' =>
+		'Sitios de confianza',
+
+        'Recipes' =>
+		'Recetas',
+        
+        'Add recipe' =>
+		'Añadir receta',
+        
+        'From Name' =>
+		'Nombre del remitente',
+        
+        'From Email Address' =>
+		'Dirección de Email del remitente',
+        
+        'Confirmation' =>
+		'Confirmación',
+        
+        'Please confirm changes to this author with your password.' =>
+		'Por favor, confirme los cambios a este autor con su contraseña.',
+        
+        'Your Password' =>
+		'Su contraseña',
+        
+        'Restore?' =>
+		'¿Restaurar?',
+        
+        'Documentation' =>
+		'Documentación',
+        
+        'Target' =>
+		'Objetivo',
+        
+        'Run all' =>
+		'Ejecutar todo',
+        
+        'Run' =>
+		'Ejecutar',
+        
+        'All' =>
+		'Todas',
+        
+        'Modified' =>
+		'Modificado',
+        
+        'Attach to Page' =>
+		'Adjuntar a la página',
+        
+        'Detach from Page' =>
+		'Separar de la página',        
+        
+        'Linked to %s in' =>
+		'Relacionado con %s en',
+        
+        'Show Associations' =>
+		'Mostrar asociaciones',
+        
+        'Set navigation group' =>
+		'Establecer grupo de navegación',
+        
+        'Validation Rule' =>
+		'Regla de validación',
+        
+        'Allow multiple dates' =>
+		'Permitir varias fechas',
+        
+        '%s Allow multiple dates' =>
+		'%s Permitir varias fechas',
+        
+        'Display time' =>
+		'Mostrar la hora',
+        
+        '%s Display time' =>
+		'%s Mostrar la hora',
+        
+        'Default date' =>
+		'Fecha por defecto',
+        
+        '%s Default date' =>
+		'%s Fecha por defecto',
+        
+        'Show calendar' =>
+		'Mostrar calendario',
+        
+        '%s Show calendar' =>
+		'%s Mostrar calendario',
+        
+        'Add filter' =>
+		'Añadir filtro',
+        
+        'Apply filters' =>
+		'Aplicar filtros',
+        
+        'No filters applied yet.' =>
+		'No se han aplicado filtros todavía.',
+        
+        'Install' =>
+		'Instalar',
+        
+        'Pagination' =>
+		'Paginación',
+        
+        'Entries per Page' =>
+		'Entradas por página',
+        
+        'Enable pagination' =>
+		'Activar paginación',
+        
+        'Page Number' =>
+		'Número de página',
+        
 		'"%1$s" contains invalid XML. The following error was returned: <code>%2$s</code>' =>
 		'"%1$s" contiene un XML inválido. Fue devuelto el siguiente error: <code>%2$s</code>',
+        
+		'Please include an \'@\' in the email address. %1$s is missing an \'@\'' =>
+		'Por favor incluya un \'@\' en la dirección de correo electrónico. %1$s is missing an \'@\'',
 
 		'%1$s &ndash; %2$s' =>
 		'%1$s &ndash; %2$s',
@@ -25,7 +277,7 @@
 
 		'%1$s Allow remote login via <a href="%2$s">%2$s</a>' =>
 		'%1$s Permitir acceso remoto via <a href="%2$s">%2$s</a>',
-
+        
 		'%s Allow selection of multiple authors' =>
 		'%s Permitir selección de múltiples autores',
 
@@ -49,6 +301,9 @@
 
 		'%s Make this a required field' =>
 		'%s Hace esto un campo obligatorio',
+        
+        'Make this a required field' =>
+		'Hace esto un campo obligatorio',
 
 		'%s Redirect to 404 page when no results are found' =>
 		'%s Redirige a la página 404 cuando no se encuentran resultados',
@@ -892,6 +1147,9 @@
 
 		'Optional' =>
 		'Opcional',
+        
+        'optional' =>
+		'opcional',
 
 		'Output Options' =>
 		'Opciones de Salida',

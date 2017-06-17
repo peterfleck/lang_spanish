@@ -14,6 +14,18 @@
 	 */
 	$dictionary = array(
 
+        '%s Output as CDATA' => 
+		'%s Salida como CDATA',
+        
+        'Limit input to %s characters' => 
+		'Limite la entrada a %s caracteres',
+        
+        'Size' => 
+		'Tamaño',
+        
+        'Show %s characters in preview' => 
+		'Mostrar %s caracteres en vista previa',
+        
         'This site is currently in maintenance mode.' =>
 		'Este sitio se encuentra actualmente en modo de mantenimiento.',
         
@@ -1752,7 +1764,7 @@
 		'</code> después de que Symphony se haya instalado correctamente.',
 
 		'Allow selection of multiple options' =>
-		'Permitir la selección de múltiples opcionesº.',
+		'Permitir la selección de múltiples opciones.',
 
 		'Cannot load CMYK JPG Images' =>
 		'No se pueden cargar imágenes CMYK JPG',

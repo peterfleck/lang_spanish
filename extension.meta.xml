@@ -15,7 +15,7 @@
     </author>
   </authors>
   <releases>
-    <release version="1.0.1" date="2018-08-27" min="2.6.0" max="4.x.x">
+    <release version="1.0.2" date="2018-08-27" min="2.6.0" max="4.x.x">
 	- Update meta.xml file.
     </release>
     <release version="1.0.1" date="2017-06-17" min="2.6.0" max="4.x.x">

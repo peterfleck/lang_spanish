@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<extension id="lang_spanish"
-  xmlns="http://getsymphony.com/schemas/extension/1.0">
+<extension id="lang_spanish" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
   <name>Language: Spanish</name>
   <description>Spanish translation for Symphony</description>
   <repo type="github">https://github.com/peterfleck/lang_spanish</repo>
+  <types>
+	<type>Translations</type>
+  </types>
   <authors>
     <author>
       <name github="peterfleck" symphony="peterfleck">Peter Fleck</name>
@@ -13,6 +15,9 @@
     </author>
   </authors>
   <releases>
+    <release version="1.0.1" date="2018-08-27" min="2.6.0" max="4.x.x">
+	- Update meta.xml file.
+    </release>
     <release version="1.0.1" date="2017-06-17" min="2.6.0" max="4.x.x">
 	- Fixed a typo and added some strings for Text Box.
     - Added Gustavo Mena's Github account.
